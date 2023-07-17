@@ -16,6 +16,10 @@ int Divider (int a, int b) {
     return a / b;     
 }
 
+void doNothing (){
+    std::cout << "A really useless Function" << std::endl; 
+}
+
 int main () {
     std::cout << "Yoww what a beautiful Monday" << std::endl; 
     std::cout << "This is the second line of code" << std::endl; 
