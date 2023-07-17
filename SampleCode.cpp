@@ -5,11 +5,7 @@ int adder (int a, int b){
 }
 
 int Subtractor (int a, int b){
-<<<<<<< .merge_file_sFwxvH
     return a - b -1; 
-=======
-    return a - b + 1; 
->>>>>>> .merge_file_0eetxr
 } 
 
 int Multiplier (int a, int b){
