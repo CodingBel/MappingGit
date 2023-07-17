@@ -30,6 +30,7 @@ int main () {
     std::cout << "This is the third line of code " << std::endl; 
 
     actionTime(); 
+    std::cout << "Actions speak louder than words" << std::endl; 
 
     return 0; 
 }
