@@ -20,10 +20,16 @@ void doNothing (){
     std::cout << "A really useless Function" << std::endl; 
 }
 
+void actionTime() {
+    std::cout << "Now is the time to apply all these to actions" << std::endl; 
+}
+
 int main () {
     std::cout << "Yoww what a beautiful Monday" << std::endl; 
     std::cout << "This is the second line of code" << std::endl; 
     std::cout << "This is the third line of code " << std::endl; 
+
+    actionTime(); 
 
     return 0; 
 }
