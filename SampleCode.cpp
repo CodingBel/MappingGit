@@ -1,11 +1,11 @@
 #include <iostream>
 
 int adder (int a, int b){
-    return a + b + 1; 
+    return a + b; 
 }
 
 int Subtractor (int a, int b){
-    return a - b -1; 
+    return a - b; 
 } 
 
 int Multiplier (int a, int b){
