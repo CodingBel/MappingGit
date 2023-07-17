@@ -1,7 +1,7 @@
 #include <iostream>
 
 int adder (int a, int b){
-    return a + b; 
+    return a + b + 1; 
 }
 
 int Subtractor (int a, int b){
