@@ -5,7 +5,7 @@ int adder (int a, int b){
 }
 
 int Subtractor (int a, int b){
-    return a - b; 
+    return a - b -1; 
 } 
 
 int Multiplier (int a, int b){
